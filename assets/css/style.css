@@ -5059,10 +5059,10 @@ a.text-theme:hover,
 }
 .footer-layout6 .footer-menu .menu-item {
   display: inline-block;
-  margin-right: 50px;
+  margin-left: 50px;
 }
 .footer-layout6 .footer-menu .menu-item:last-child {
-  margin-right: 0;
+  margin-left: 0;
 }
 .footer-layout6 .footer-menu .menu-item a {
   color: var(--white-color);
