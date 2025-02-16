@@ -3858,12 +3858,12 @@ a.text-theme:hover,
   color: #071a3e;
 }
 .header-layout3 .header-logo{
-  max-width: 250px;
+  max-width: 200px;
 }
 
 @media(max-width:991px){
   .header-layout3 .header-logo{
-    max-width:200px;
+    max-width:150px;
   }
 }
 
@@ -4580,6 +4580,7 @@ a.text-theme:hover,
   right:0;
   top:0;
   width: 100%;
+  padding-top:20px;
 }
 @media (min-width: 1199px) {
   .header-layout3 .header-box-wrap,
